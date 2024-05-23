@@ -361,3 +361,15 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+
+UserSettings
+/Assembly-CSharp-firstpass.csproj
+/digitalProject.sln
+/Assembly-CSharp.csproj
+/Assembly-CSharp-Editor-firstpass.csproj
+ProjectSettings
+Library
+Resources
+Shader
+Z
+Animation
